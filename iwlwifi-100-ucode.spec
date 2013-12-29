@@ -1,6 +1,6 @@
 %define name iwlwifi-100-ucode
 %define version 39.31.5.1
-%define release %mkrel 1
+%define release 2
 
 Summary: Intel PRO/Wireless N 100 microcode
 Name: %{name}
